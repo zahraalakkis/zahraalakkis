@@ -9,5 +9,5 @@ I love turning data into stories that inspire better decisions.
 - Data Cleaning, Analysis, Visualization
 
 ## Featured Projects
-[AI for Games](https://github.com/zahraalakkis/your-project-link)
+[AI 2 player game (snakes and ladders)](https://github.com/zahraalakkis/)
 
